@@ -1,0 +1,3 @@
+/Users/qianhe/Desktop/workspace/2022final/C Language/Git_Test/C-First/1_!/cmake-build-debug/CMakeFiles/1__.dir
+/Users/qianhe/Desktop/workspace/2022final/C Language/Git_Test/C-First/1_!/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qianhe/Desktop/workspace/2022final/C Language/Git_Test/C-First/1_!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
